@@ -1,9 +1,6 @@
-Styles
-======
-
 These are qmls for styling Vector Map Local vector version in QGIS 2.0
 
-They are base on the SLDs made available by the Ordnance Survey here 
+They are base on the SLDs made available by the Ordnance Survey here: 
 
 http://www.ordnancesurvey.co.uk/docs/styled-layer-descriptors/os-vectormap-local-sld.zip
 
