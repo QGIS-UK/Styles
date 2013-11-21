@@ -6,5 +6,7 @@ You can however use these as a template for styling OSMM layers loaded into Post
 Some post processing is need for the cartographictext style by using the update: 
 https://github.com/QGIS-UK/Styles/blob/master/OSMM/cartotext_update.sql
 
+Balck and White and Grey topo areas courtesy of: https://twitter.com/geosmiles
+
 
 
